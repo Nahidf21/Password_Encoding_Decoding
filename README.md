@@ -1,2 +1,3 @@
 # PythonProgramming
-Dictionary Related Experiments 
+Encode and Decode 
+Using shifting method
